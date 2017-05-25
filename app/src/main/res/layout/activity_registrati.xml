@@ -66,7 +66,7 @@
         android:id="@+id/textViewPassword1" />
 
     <TextView
-        android:text="COnferma password*"
+        android:text="Conferma password*"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textViewPassword1"
@@ -93,7 +93,7 @@
         android:layout_alignStart="@+id/checkedTextPassword2" />
 
     <CheckedTextView
-        android:text="Inserisci il tuo numero di telefono"
+        android:text="Inserisci numero di telefono"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/checkedTextTelefono"
@@ -101,7 +101,7 @@
         android:layout_alignStart="@+id/checkedTextPassword" />
 
     <CheckedTextView
-        android:text="Inserisci la tua em@il"
+        android:text="inserisci email "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/checkedTextEmail"
@@ -118,7 +118,7 @@
         android:layout_alignStart="@+id/checkedTextEmail" />
 
     <CheckedTextView
-        android:text="Inserisci il tuo nome"
+        android:text="Inserisci nome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/checkedTextNome"

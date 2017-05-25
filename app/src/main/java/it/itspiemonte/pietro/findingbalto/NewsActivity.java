@@ -15,6 +15,6 @@ public class NewsActivity extends AppCompatActivity {
                 "Cras lobortis venenatis quam eu feugiat. Fusce pretium dolor non volutpat luctus. Phasellus congue ornare enim, eu ornare elit porttitor vitae."+
                 " Nullam scelerisque urna sed tincidunt sodales. Vivamus augue elit, molestie vitae nisl eget, vestibulum auctor massa. Sed ligula lectus, "+
                 "auctor quis dignissim id, tempus sed sem. Donec tempor quam ligula, in fringilla felis imperdiet sed. Fusce convallis odio et sem pharetra tempus."+
-                " Donec eros sapien, laoreet id posuere a, porta id nisl. Pellentesque sed porttitor velit, ut aliquam sapien. Etiam sed accumsan quam. Ut tincidunt et felis at vestibulum. Etiam in ornare orci. Interdum et malesuada fames ac ante ipsum primis in faucibus.");
+                " Donec eros sapien, laoreet id posuere a, porta id nisl. Pellentesque sed porttitor velit, ut aliquam sapien. Etiam sed accumsan quam. ");
     }
 }

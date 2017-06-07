@@ -1,7 +1,9 @@
 package it.itspiemonte.pietro.findingbalto;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class NewsActivity extends AppCompatActivity {
@@ -17,4 +19,12 @@ public class NewsActivity extends AppCompatActivity {
                 "auctor quis dignissim id, tempus sed sem. Donec tempor quam ligula, in fringilla felis imperdiet sed. Fusce convallis odio et sem pharetra tempus."+
                 " Donec eros sapien, laoreet id posuere a, porta id nisl. Pellentesque sed porttitor velit, ut aliquam sapien. Etiam sed accumsan quam. ");
     }
+
+   public void OnClickAvanti( View view)
+   {
+       Intent intent = new Intent(this,ActivityLogin.class);
+       startActivity(intent);
+
+   }
+
 }

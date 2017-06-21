@@ -22,7 +22,7 @@ public class NewsActivity extends AppCompatActivity {
 
    public void OnClickAvanti( View view)
    {
-       Intent intent = new Intent(this,ActivityLogin.class);
+       Intent intent = new Intent(this,MapsActivity.class);
        startActivity(intent);
 
    }
